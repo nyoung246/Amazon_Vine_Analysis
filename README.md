@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
  
-This analysis is to create a larger project to analyze Amazon reviews written by members of the paid Amazon Vine program. Having access to 50 datasets, the Music dataset was chosen to analyze. Using PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and lod the transformed data in pgAdmin. The end result is to determine if there is a favorable review from Vine members. 
+This analysis is to create a larger project to analyze Amazon reviews written by members of the paid Amazon Vine program. Having access to 50 datasets, the Music dataset was chosen to analyze. Using PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data in pgAdmin. The end result is to determine if there is a favorable review from Vine members. 
 
 ## Results
 
